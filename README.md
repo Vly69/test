@@ -1,2 +1,6 @@
-# test
-just for test 
+<!DOCTYPE html>
+<html>
+<body>
+  <script>alert(document.cookie)</script>
+</body>
+</html>
